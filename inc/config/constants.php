@@ -5,10 +5,10 @@
 	
 	// Database parameters
 	// Data source name
-	define('DSN', 'mysql:host=iacrds.crlliotybzcz.ap-south-1.rds.amazonaws.com;dbname=shop_inventory');
+	define('DSN', 'mysql:host=localhost;dbname=shop_inventory');
 	
 	// Hostname
-	define('DB_HOST', 'iacrds.crlliotybzcz.ap-south-1.rds.amazonaws.com');
+	define('DB_HOST', 'localhost');
 	
 	// DB user
 	define('DB_USER', 'admin');
